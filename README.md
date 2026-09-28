@@ -2,4 +2,5 @@
 
 Public downloads and release notes for Redtree projects.
 
-- [Needle for Windows](needle/README.md)
+- [Needle for Windows: downloads and release notes](needle/README.md)
+- [Needle 0.1.9 release notes](needle/0.1.9.md)
