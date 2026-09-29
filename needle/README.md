@@ -4,6 +4,7 @@ Download the latest Windows installer from [Needle releases](https://github.com/
 
 ## Release notes
 
+- [0.1.13 — Progressive design and persistent new pages](0.1.13.md)
 - [0.1.12 — Device preview and Live project controls](0.1.12.md)
 - [0.1.11 — Live previews and Figma import refinements](0.1.11.md)
 - [0.1.10 — Figma references in Live projects](0.1.10.md)
