@@ -4,6 +4,7 @@ Download the latest Windows installer from [Needle releases](https://github.com/
 
 ## Release notes
 
+- [0.1.10 — Figma references in Live projects](0.1.10.md)
 - [0.1.9 — Live agent conversation fixes](0.1.9.md)
 - [0.1.8 — Live project controls and editing refinements](0.1.8.md)
 - [0.1.7 — Live project creation, design systems, in-place editing and shipping](0.1.7.md)
