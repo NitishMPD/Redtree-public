@@ -4,6 +4,7 @@ Download the latest Windows installer from [Needle releases](https://github.com/
 
 ## Release notes
 
+- [0.1.21 — Website import recovery](0.1.21.md)
 - [0.1.20 — Multi-page editing and website import progress](0.1.20.md)
 - [0.1.19 — Live project tabs and multi-page refinements](0.1.19.md)
 - [0.1.18 — Multi-page requests and clarification](0.1.18.md)
