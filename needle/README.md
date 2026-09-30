@@ -4,6 +4,7 @@ Download the latest Windows installer from [Needle releases](https://github.com/
 
 ## Release notes
 
+- [0.1.19 — Live project tabs and multi-page refinements](0.1.19.md)
 - [0.1.18 — Multi-page requests and clarification](0.1.18.md)
 - [0.1.17 — Website import and Live project tabs](0.1.17.md)
 - [0.1.16 — Live Pages and page creation](0.1.16.md)
