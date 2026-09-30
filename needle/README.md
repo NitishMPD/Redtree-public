@@ -4,6 +4,7 @@ Download the latest Windows installer from [Needle releases](https://github.com/
 
 ## Release notes
 
+- [0.1.16 — Live Pages and page creation](0.1.16.md)
 - [0.1.15 — Live Design edit refinements](0.1.15.md)
 - [0.1.14 — In-app updates and Live canvas controls](0.1.14.md)
 - [0.1.13 — Progressive design and persistent new pages](0.1.13.md)
