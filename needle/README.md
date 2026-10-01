@@ -4,6 +4,7 @@ Download the latest Windows installer from [Needle releases](https://github.com/
 
 ## Release notes
 
+- [0.1.23 — Desktop setup and temporary preview sharing](0.1.23.md)
 - [0.1.22 — Live workflow refinements](0.1.22.md)
 - [0.1.21 — Website import recovery](0.1.21.md)
 - [0.1.20 — Multi-page editing and website import progress](0.1.20.md)
