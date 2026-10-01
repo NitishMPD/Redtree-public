@@ -4,6 +4,7 @@ Download the latest Windows installer from [Needle releases](https://github.com/
 
 ## Release notes
 
+- [0.1.26 — Project chats and direct page renaming](0.1.26.md)
 - [0.1.25 — Git setup and route renaming](0.1.25.md)
 - [0.1.24 — Live changes and preview reliability](0.1.24.md)
 - [0.1.23 — Desktop setup and temporary preview sharing](0.1.23.md)
