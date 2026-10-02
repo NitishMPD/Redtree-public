@@ -4,6 +4,7 @@ Download the latest Windows installer from [Needle releases](https://github.com/
 
 ## Release notes
 
+- [0.1.29 — Codex accounts and Live refinements](0.1.29.md)
 - [0.1.28 — Page management and Git workflow](0.1.28.md)
 - [0.1.27 — Live skills and agent reliability](0.1.27.md)
 - [0.1.26 — Project chats and direct page renaming](0.1.26.md)
